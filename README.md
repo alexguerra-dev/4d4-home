@@ -17,3 +17,9 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Projects
+
+### BetoBar
+
+The site can be found at [betobar.4d4.live](https://betobar.4d4.live). And, the [GitHub repo](https://github.com/alexguerra-dev/4d4-home).
