@@ -22,4 +22,18 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### BetoBar
 
-The site can be found at [betobar.4d4.live](https://betobar.4d4.live). And, the [GitHub repo](https://github.com/alexguerra-dev/4d4-home).
+The site can be found at [betobar.4d4.live](https://betobar.4d4.live). And, the [GitHub repo](https://github.com/alexguerra-dev/4d4-home) here.
+
+### Synth
+
+This is _going_ to be a noise maker app. I am not sure what that means right now. But, it is ready to be worked on.
+
+- [synth.4d4.live](https://synth.4d4.live)
+- [GitHub Repo](https://github.com/alexguerra-dev/synth)
+
+## Boop
+
+The name of the game is to **BOOP** the **SNOOT**.
+
+- [boop.4d4.live](https://boop.4d4.live)
+- [GitHub Repo](https://github.com/alexguerra-dev/boop)
