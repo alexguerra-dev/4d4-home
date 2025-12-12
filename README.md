@@ -37,3 +37,11 @@ The name of the game is to **BOOP** the **SNOOT**.
 
 - [boop.4d4.live](https://boop.4d4.live)
 - [GitHub Repo](https://github.com/alexguerra-dev/boop)
+
+## Project Tasks
+
+- [x] Add `.prettierrc` and `LICENCE` file
+- [x] Format all used files to use style guide
+- [x] Remove boilerplate content
+- [x] Add _Hello, World!_
+- [ ] _Fill out_ the `package.json` file.
