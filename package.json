@@ -1,7 +1,16 @@
 {
     "name": "4d4-home",
-    "version": "0.1.0",
+    "version": "0.0.1",
     "private": true,
+    "author": {
+        "name": "Alexander A. Guerra",
+        "email": "alexander.a.guerra@gmail.com"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alexguerra-dev/4d4-home.git"
+    },
     "scripts": {
         "dev": "next dev",
         "build": "next build",
